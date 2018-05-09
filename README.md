@@ -8,7 +8,7 @@ Simple search (https://api.github.com/search/repositories?q=YOUR_SEARCH_KEYWORD 
 
 Technologies: C# Web API and angularjs 1.6.
 
-Project have two page Repositories and Bookmanks.
+Project have two pages Repositories and Bookmanks.
 - Repositories -  to shearch repository
 - Bookmanks - view saved (bookmark) repositories.
 
